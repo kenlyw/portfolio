@@ -11,3 +11,6 @@ Fertility Rate Analysis
 Property Analysis
 - R, R Shiny
 - Data visualisation
+
+Spreadsheet Model
+- Excel Macro VBA, Monte Carlo, Modelling
