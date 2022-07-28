@@ -1,1 +1,14 @@
+This project aims to assess the correlation between social sentiments, and importance of Twitter users’ profiles on its impact on cryptocurrency’s price change. More specifically, our analysis will be focused on user influence, such as the number of followers and tweet sentiment compound scores as the main components of measuring popularity. To extend our scope for a more comprehensive overview, discussions of cryptocurrency on Reddit are also used to complement our analysis of the general population on a different social media platform.
+
+For a easy to read summary
+- Access Presentation.VF PPT
+
+Topic Modelling
+- To explore what topics are being discussed on days with significant price changes (i.e increase and decrease), Topic Modelling was conducted. 
+
+Network Analysis
+- To see the centrality and influence of each identified subjects, and level of importance in the crypto community
+
+Sentiment Analysis
+- To see the sentiments of tweets related to crytocurrency. A great example is when Elon Musk's tweeted about Doge Coin on April of 2020, which caused the price of doge coin to sky rocket. We would like to see if there are any correlation between sentiment and prices.
 
